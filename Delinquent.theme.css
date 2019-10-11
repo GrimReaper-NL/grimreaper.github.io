@@ -1,0 +1,26 @@
+//META{"name":"Delinquent Theme by Grim Reaper","description":"Glory to Mankind. Delinquent Theme by Grim Reaper","author":"Grim Reaper","version":"1.0","website":""}*//{}
+
+@import url('https://accrazed.github.io/YoRHA-UI-BetterDiscord/font/stylesheet.css');
+@import url('https://github.com/GrimReaper-NL/Delinquent/blob/master/main.css');
+::placeholder, body, button, input, select, textarea{font-family:'sce-ps3_rodin_latinregular';}
+
+/*================================ Main Wallpaper ================================*/
+#app-mount 
+{ 
+   
+    /* 
+    https://i.ibb.co/qyq2Mvw/R4HPUxC.png border
+    https://i.ibb.co/98f2jx9/R4HPUxC.png borderless
+    https://i.ibb.co/7NzPSCg/Nie-R-UI-lens-effect.png with Lens
+	https://i.ibb.co/98f2jx9/R4HPUxC.png borderless
+    */
+}
+:root /* GLOBAL VARIABLES */
+{
+    --color-high: rgb(218,212,187);
+    --color-low: rgb(87,84,74);
+    --color-mid: rgb(151, 147, 129);
+    --color-alert: rgb(205,102,77);
+    --nier-font: sce-ps3_rodin_latinregular;
+    --avatar-image-radius: 50%;
+}
